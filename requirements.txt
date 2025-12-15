@@ -1,0 +1,11 @@
+beautifulsoup4
+gnews
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+lxml
+openai
+pytrends
+python-dateutil
+python-dotenv
+requests
