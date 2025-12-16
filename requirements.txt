@@ -9,3 +9,4 @@ pytrends
 python-dateutil
 python-dotenv
 requests
+markdown
